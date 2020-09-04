@@ -75,7 +75,7 @@ When the glaciers advanced across the Straits area during the LGM, they carved-o
 
 The glaciers retreated out of the Huron-Michigan Basin and the Mackinac Straits for good sometime around 13,000 years ago. Water levels in the Great Lake fluctuated drastically over the centuries that followed, reshaping the edges of the basin.
 
-[Imgur](https://imgur.com/ZmHoXfJ)
+![Imgur](https://imgur.com/ZmHoXfJ)
 
 ## Geomorphic Context
 You can tell a lot about the post-glacial history of the Headlands (or anywhere, really) by looking at elevation maps. The movements of glaciers, waves on a lake, or the currents in a river all leave behind unique and beautiful landforms that allow up to interpret past geologic/geomorphic events.
@@ -188,7 +188,7 @@ These sandy layers are most likely part of a beach and foreshore environment, an
 
 This gravel layer is trickier to interpret because it is so wide-spread. If you look at a soils map of this area, you’ll see that soils formed in gravel (noted in orange) make up the bulk of the beach ridged higher in the landscape around the Headlands, and occur on top of the uplands. To me this suggests that the gravels are stony beach deposits and wave-washed surfaces. The tricky part is figuring out where all of these limestone boulders, cobbles, and gravel came from. Were they brought here by glaciers? Were they eroded from the Headland’s cliffs during the Nippising? I’m not drawing any conclusions just yet…
 
-[Imgur](https://i.imgur.com/3Py8Bc3.jpg)
+![Imgur](https://i.imgur.com/3Py8Bc3.jpg)
 
 ## Conclusion
 
@@ -199,6 +199,6 @@ Oh, and always let your friendly, neighbood geologist know when you see a good o
 Cheers,
 Libby
 
-[Imgur](https://i.imgur.com/C88Xprz.jpg)
+![Imgur](https://i.imgur.com/C88Xprz.jpg)
 
 
