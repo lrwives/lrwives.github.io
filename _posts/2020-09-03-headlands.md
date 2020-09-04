@@ -144,9 +144,9 @@ In the next layer up, the sand continues to become coarser. The sand in this lay
 
 Though they are difficult to see, there are some bands in these sandy sediments – “cross beds” – that point in the direction water was flowing when the sediments were lain down. The cross beds in these layers point roughly to the south-south east, a direction that is perpendicular to the trend of the old beach ridge we can see in the elevation data.
 
-![DSC_4091.JPG](https://github.com/lrwives/files/blob/master/DSC_4091.JPG)
+![DSC_4091.JPG](https://i.imgur.com/bzSofmS.jpg)
 
-![DSC_4104.JPG](https://github.com/lrwives/files/blob/master/DSC_4104.JPG)
+![DSC_4104.JPG](https://github.com/lrwives/files/blob/master/DSC_4104.jpg)
 
 ### Layer 5: Coarse sand, ~7-9 ft.
 
