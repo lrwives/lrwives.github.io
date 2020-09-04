@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 September 3, 2020
 Libby R.W. Ives
