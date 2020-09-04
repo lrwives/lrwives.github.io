@@ -3,7 +3,7 @@ published: true
 ---
 # Headlands Outcrop: A Window into Ancient Shorelines
 
-![north-looking view of the Lake Michigan shoreline near out outcrop location, August 2020](https://github.com/lrwives/files/blob/6b3b992ce27e1ccf699c68d2f7a6189af04cdcd0/Shoreview.jpg)
+![north-looking view of the Lake Michigan shoreline near out outcrop location, August 2020](https://github.com/lrwives/files/blob/6b3b992ce27e1ccf699c68d2f7a6189af04cdcd0/Shoreview.jpg = 250)
 
 
 ## Introduction
