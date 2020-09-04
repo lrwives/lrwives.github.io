@@ -118,8 +118,13 @@ The organic layers are 1 mm – 2 cm thick, and laterally discontinuous. The mat
 ![wood fragment from organic layer with black unidentifiable black material and small gastropods on it.]({{site.baseurl}}/_drafts/DSC_4096.JPG)
 
 
-### Layer 2: Lake Clays without Organics
+### Layer 2: Lake Clays without Organics, ~1.5-3 ft.
+
+![pebbles found in the clay]({{site.baseurl}}/_posts/DSC_4097.JPG)
+
 
 Moving upward through this clay layer, the organic mats gradually become rarer and then disappear altogether. In this interval, shells also become less common, but within the clay one can find rare pebbles, which are notably not made of limestone (this will become important later).
+
+### Layer 3: Fine sand and loam, ~3-5 ft.
 
 
