@@ -79,6 +79,11 @@ People were living around the Great Lakes during this time of high lake levels, 
 
 Anyway, you might be asking “Why does she want me to know all about beach ridges and ancient lake levels?” The answer is: Because the outcrop I’m going to describe next is essentially a cross-section through a beach ridge that was made when lake levels were just a little higher than they are today. It’s also worth noting that lake-side outcrops like this are only likely to be well-exposed when lake levels are relatively high, like they are now. 
 
+Here's a zoomed-in version of the map above showing the ridge a little better:
+
+![Location Close-up]({{site.baseurl}}/_drafts/Headlands_Working_1_CloseUp.jpg)
+
+
 ## Outcrop Description
 In this first section, I’m only going to describe the outcrop and then I will tell you what I think it all means in the “Outcrop Interpretation” section. 
 
