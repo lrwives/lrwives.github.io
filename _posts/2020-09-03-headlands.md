@@ -1,6 +1,7 @@
 ---
 published: true
 ---
+
 # Headlands Outcrop: A Window into Ancient Shorelines
 *I haven't yet had a chance to go through and cite all the wonderful figures and images I used in this blog post. I will do so as soon as I get the chance!*
 
@@ -75,7 +76,7 @@ When the glaciers advanced across the Straits area during the LGM, they carved-o
 
 The glaciers retreated out of the Huron-Michigan Basin and the Mackinac Straits for good sometime around 13,000 years ago. Water levels in the Great Lake fluctuated drastically over the centuries that followed, reshaping the edges of the basin.
 
-![Imgur](https://i.imgur.com/ZmHoXfJ.gifv)
+<a href="https://imgur.com/ZmHoXfJ"><img src="https://i.imgur.com/ZmHoXfJs.gif" title="source: imgur.com" /></a>
 
 ## Geomorphic Context
 You can tell a lot about the post-glacial history of the Headlands (or anywhere, really) by looking at elevation maps. The movements of glaciers, waves on a lake, or the currents in a river all leave behind unique and beautiful landforms that allow up to interpret past geologic/geomorphic events.
