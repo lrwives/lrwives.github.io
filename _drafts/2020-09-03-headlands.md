@@ -60,6 +60,25 @@ Glaciers are so effective at reshaping the landscape, that each time ice sheets 
 
 When the glaciers advanced across the Straits area during the LGM, they carved-out and deepened the Michigan-Huron Lake Basin, left behind some bedrock highs like the one at the Headlands, and deposited loads of new sediment.
 
+### After the Glaciers
+
+## Geomorphic Context
+You can tell a lot about the post-glacial history of the Headlands (or anywhere, really) by looking at elevation maps. The movements of glaciers, waves on a lake, or the currents in a river all leave behind unique and beautiful landforms that allow up to interpret past geologic/geomorphic events.
+
+![LiDAR DEM and Hillshade of the Headlands Area]({{site.baseurl}}/_drafts/Headlands_LiDAR_v1.jpg)
+
+
+Most of the unique shapes in the landscape around the Headlands and Mackinaw City were formed along the shoreline of Lake Michigan as the water levels gradually fell over the last 5000 years -or -so (or, since ~3000 BCE in human years). Shorelines, whether in lakes or oceans, very often build and leave behind “beach ridges”, like you see on the map here. Beach ridges are usually built by waves where a shoreline is building out into the water – either due to the addition of sand, or the lowering of the water level. Beach ridge complexes (also known as ‘dune and swale’) are most common in bays, which by their nature have a very gradual slope. So, as water levels dropped in the Michigan-Huron basin, water gradually retreated out of Trails End Bay and left a series of beach ridges, like water rings in a bathtub. In some places, you can see where these beach ridges parted slightly from the shoreline’s trajectory to form spits and bars, and other familiar shoreline features. Lakes like French Farm Lake, Paradise (Carp) Lake, and Wycamp Lake, and many of the small lakes along the shores of Lake Michigan are old parts of an embayment that was once part of the Big Lake, but are now trapped behind these beach ridge complexes. If the sand left behind wasn’t vegetated quickly enough, these beach ridges were sometimes buffeted around by the wind and shaped into dunes. 
+
+As you can see by the distribution of beach ridges around the Headlands and its neighbor to the south, both of these uplands were once surrounded by water and formed islands, much like Mackinac Island and Bois Blanc Island. The cliffs that ring the Headlands above the beach ridges formed when lake levels were parked at a single elevation for several thousands of years – likely during the period of the “Nippising Great Lakes”, a period between ~6,500 – 4,500 years ago during which Michigan-Huron Lake levels sat ~50 ft higher than they are today. This Nippising Interval is probably the period during which famous features, such as the wave-cut arch at Mackinac Island and the lake-stacks like Castle Rock, formed.
+
+![Nippising Great Lakes reconstruction from MSU geography]({{site.baseurl}}/https://lh3.googleusercontent.com/proxy/ErRtFbxLMoiUbqSC6W5ab7JRvdbj_JybiRQwdx81LgTc1GJhzLRYD9KWtjTK_zoiEsH7L9DfIHmAmr95Ui27favKS7D5lELI)
+
+People were living around the Great Lakes during this time of high lake levels, which archaeologists have dubbed the “Archaic period” (8000 – 1000 BCE) and the “Woodland period”. (1000 BCE – 1000 CE). These communities left behind a legacy of stone, pottery, and (Keweenaw) copper belongings, as well as oral traditions and stories that they passed down to their decedents. The oral traditions of native tribes in the Great Lakes regions often include legends describing changes to the landscape, including the draining, flooding, and re-routing of lakes. I couldn’t find a lot of resources online that recount and describe these stories. Maybe someone can point me towards some?
+
+Anyway, you might be asking “Why does she want me to know all about beach ridges and ancient lake levels?” The answer is: Because the outcrop I’m going to describe next is essentially a cross-section through a beach ridge that was made when lake levels were just a little higher than they are today. It’s also worth noting that lake-side outcrops like this are only likely to be well-exposed when lake levels are relatively high, like they are now. 
+
+
 
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
