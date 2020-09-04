@@ -121,3 +121,5 @@ The organic layers are 1 mm – 2 cm thick, and laterally discontinuous. The mat
 ### Layer 2: Lake Clays without Organics
 
 Moving upward through this clay layer, the organic mats gradually become rarer and then disappear altogether. In this interval, shells also become less common, but within the clay one can find rare pebbles, which are notably not made of limestone (this will become important later).
+
+
