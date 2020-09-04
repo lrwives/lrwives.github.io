@@ -9,6 +9,8 @@ tags: [geology, sedimentology, glacial, glacial geology, geomorphology, outcrops
 
 ![north-looking view of the Lake Michigan shoreline near out outcrop location, August 2020]({{site.baseurl}}/_drafts/Shoreview.jpg)
 
+![image-title-here](/path/to/image.jpg){:class="img-responsive"}
+
 ## Introduction
 
 
