@@ -2,6 +2,7 @@
 published: true
 ---
 # Headlands Outcrop: A Window into Ancient Shorelines
+*I haven't yet had a chance to go through and cite all the wonderful figures and images I used in this blog post. I will do so as soon as I get the chance!*
 
 ![north-looking view of the Lake Michigan shoreline near out outcrop location, August 2020](https://i.imgur.com/2qQpfSC.jpg)
 
@@ -48,8 +49,6 @@ The bedrock of Michigan’s lower peninsular and eastern upper peninsula are sed
 
 How and why these rocks formed is a story for another time. What’s important for our ice age glaciers is that some rocks are easy to erode and other rocks are literally too “hard” to erode. Where the Michigan-Huron Lake Basin is today was likely underlain by easy-for-glaciers-to-erode soft shales. If you trace the center of these two lakes, you’ll see that their shape mirror the “bullseye” pattern created by other rock layers in the Michigan Basin. On either side of the that soft layer, the rocks are much harder and were difficult to erode. In many cases this resulted in upland areas being preserved in the landscape. We see examples of these uplands all over the Straits, including Mackinac Island, Gros Cap, Castle Rock, Waugashance Point, all the submerged “reefs” that make navigating the Straits so difficult, and yes, even the Headlands.
 
-[Map of the Straits Area showing these locations]
-
 If you’re familiar with the area you might be saying to yourself, “Hey! I thought those uplands were wave-cut bluffs, sea-arches, and sea-stacks!” – and you would be right. These uplands areas have been heavily modified by the wave action of the Great Lakes. But they were high points on the landscape first; The lakes did not make them high areas.
 
 ![Mackinac Island Arch Rock from mackinacisland.org](https://www.mackinacisland.org/assets/rocks.jpg)
@@ -73,6 +72,10 @@ Glaciers are so effective at reshaping the landscape, that each time ice sheets 
 When the glaciers advanced across the Straits area during the LGM, they carved-out and deepened the Michigan-Huron Lake Basin, left behind some bedrock highs like the one at the Headlands, and deposited loads of new sediment.
 
 ### After the Glaciers
+
+The glaciers retreated out of the Huron-Michigan Basin and the Mackinac Straits for good sometime around 13,000 years ago. Water levels in the Great Lake fluctuated drastically over the centuries that followed, reshaping the edges of the basin.
+
+[Imgur](https://imgur.com/ZmHoXfJ)
 
 ## Geomorphic Context
 You can tell a lot about the post-glacial history of the Headlands (or anywhere, really) by looking at elevation maps. The movements of glaciers, waves on a lake, or the currents in a river all leave behind unique and beautiful landforms that allow up to interpret past geologic/geomorphic events.
@@ -164,3 +167,38 @@ The gravel layer that tops this coarsening upward sequence is ~6 ft thick. The c
 When we visited the outcrop, we got to it by walking along the Lake Michigan shoreline. While doing this we noticed that most exposures along the lakeshore are composed of only Layer 1 (mud) and Layer 6 (gravel). This tell us that the sandy layers (Layers 2 – 5) are the ones that created the beach ridge, while the environments that allowed the muddy sediments at the bottom of the sequence and the course cobbles at the top of the sequence occurred not only on the beach ridge, but also in the surrounding areas.
 
 ## Interpretation
+
+To understand what this outcrop (the cake) is showing us, we have to consider it together with the topography (the frosting). Remember, this is only one geologist’s interpretation and there are a lot of unknowns I was not able to address for this blog post.
+
+None of these sediments were deposited by glaciers. They were likely enplaced during the fall of Lake Michigan from it’s Nippising high stand to its modern levels. The precise age of these sediments could be determined through radiocarbon dating of organic materials in the mats of layer 1.
+
+### Layer 1
+
+At the base of the section we have an abundance of sandy, silty clay with lots of organic materials, a lot of it from land plants, being deposited intermittently. These different layers represent switching between relatively calm water (the clay), and probably some sort of wetland environment that allowed for the accumulation of some organic material. There were lots of little animals, like snails and muscles, living in this little backwater. Remember, this layer was everywhere along the lakeshore, but layers 2, 3, 4, and 5 are not.
+
+### Layer 2
+
+Beginning in layer 2 something started changed. Our little embayment no longer dried out enough to allow wetlands to form and plants to grow here, there are fewer critters around, and more sand in the sediment, which means there was more energy present in the system, likely in the form of waves. The pebbles found in this layer likely indicate that lake ice had formed over the area. 
+
+### Layers 3-5
+
+These sandy layers are most likely part of a beach and foreshore environment, and represent the building up of our beach ridge. Beach ridges, like spits and bars, migrate over time. As they migrate there are always parts of them that are exposed to a lot of wave energy (usually the tops and windward sides) and parts that are less exposed. The fine sand in layer 3 would have formed in the “less exposed” part of the bar and the coarse sand in the more exposed, higher energy part. The build up of this bar is why there is a hill here.
+
+### Layer 6
+
+This gravel layer is trickier to interpret because it is so wide-spread. If you look at a soils map of this area, you’ll see that soils formed in gravel (noted in orange) make up the bulk of the beach ridged higher in the landscape around the Headlands, and occur on top of the uplands. To me this suggests that the gravels are stony beach deposits and wave-washed surfaces. The tricky part is figuring out where all of these limestone boulders, cobbles, and gravel came from. Were they brought here by glaciers? Were they eroded from the Headland’s cliffs during the Nippising? I’m not drawing any conclusions just yet…
+
+[Imgur](https://i.imgur.com/3Py8Bc3.jpg)
+
+## Conclusion
+
+This little outcrop south of the headland helps to fill in our understanding of how this landscape has changed over the last 4500 years, and how dynamic it was during that time – and still is. The sand bar exposed in this outcrop isn’t so different from the one curving to the north around the Headlands today, though maybe a bit stonier. I think it's important to keep in mind that just like the stars, planets, and galaxies you can watch over Lake Michigan at the Dark Sky Park, the landscape around you have been shaped by hundred of millions of years of constant change. 
+
+Oh, and always let your friendly, neighbood geologist know when you see a good outcrop!
+
+Cheers,
+Libby
+
+[Imgur](https://i.imgur.com/C88Xprz.jpg)
+
+
