@@ -79,7 +79,7 @@ Most of the unique shapes in the landscape around the Headlands and Mackinaw Cit
 
 As you can see by the distribution of beach ridges around the Headlands and its neighbor to the south, both of these uplands were once surrounded by water and formed islands, much like Mackinac Island and Bois Blanc Island. The cliffs that ring the Headlands above the beach ridges formed when lake levels were parked at a single elevation for several thousands of years – likely during the period of the “Nippising Great Lakes”, a period between ~6,500 – 4,500 years ago during which Michigan-Huron Lake levels sat ~50 ft higher than they are today. This Nippising Interval is probably the period during which famous features, such as the wave-cut arch at Mackinac Island and the lake-stacks like Castle Rock, formed.
 
-![Nippising Great Lakes reconstruction from MSU geography](https://lh3.googleusercontent.com/proxy/ErRtFbxLMoiUbqSC6W5ab7JRvdbj_JybiRQwdx81LgTc1GJhzLRYD9KWtjTK_zoiEsH7L9DfIHmAmr95Ui27favKS7D5lELI)
+![Nippising Great Lakes reconstruction from MSU geography](http://geo.msu.edu/extra/geogmich/images/dg-49.GIF)
 
 People were living around the Great Lakes during this time of high lake levels, which archaeologists have dubbed the “Archaic period” (8000 – 1000 BCE) and the “Woodland period”. (1000 BCE – 1000 CE). These communities left behind a legacy of stone, pottery, and (Keweenaw) copper belongings, as well as oral traditions and stories that they passed down to their decedents. The oral traditions of native tribes in the Great Lakes regions often include legends describing changes to the landscape, including the draining, flooding, and re-routing of lakes. I couldn’t find a lot of resources online that recount and describe these stories. Maybe someone can point me towards some?
 
@@ -96,7 +96,7 @@ In this first section, I’m only going to describe the outcrop and then I will 
 **Location: 42.771433˚ 084.782650˚W**
 
 
-![DSC_4085.JPG]({{site.baseurl}}/_drafts/DSC_4085.JPG)
+![DSC_4085.JPG](https://github.com/lrwives/files/blob/master/DSC_4085.JPG)
 
 The outcrop is ~5 m, or ~16 ft., tall. The sediments exposed in the outcrop are an excellent example of what geologists call a “coarsening upward sequence”, where the sediments at the bottom a relatively fine-grained at the bottom (think clay or silt) and then gradually become more coarse (sand, gravel, etc.) as you move upward through the sediments without experiencing any major interruptions. Coarsening upward sequences suggest a couple of things:
 1. Since there are no major interruptions in this pattern, **these sediments were probably all deposited in the same lake** and not, say, partially in a lake and partially in a river or glacier.
@@ -113,33 +113,42 @@ What I’m going to do next is talk about each sediment layer, starting at the b
 
 ### Layer 1: Lake Clays with Organics, ~0-1.5 ft.
 
-![clay and organic layers](https://github.com/lrwives/files/blob/master/clay%20and%20mud%20layers.jpg)
-
-
 This interval is composed to grey sandy clay loam with thin organic mat layers. The unoxidized grey sediments oxidize to reddish-brown. Whole shells and shelly fragments are common. Shells include bivalves (e.g. clams/muscles) and gastropods (snails).
+
+![clay and organic layers](https://github.com/lrwives/files/blob/master/clay%20and%20mud%20layers.jpg)
 
 The organic layers are 1 mm – 2 cm thick, and laterally discontinuous. The mats are black in color and contain plant macrofossils that someone with a better background in plants than myself may be able to identify. These macrofossils included pieces of wood.
 
-![wood fragment from organic layer with black unidentifiable black material and small gastropods on it.]({{site.baseurl}}/_drafts/DSC_4096.JPG)
+![wood fragment from organic layer with black unidentifiable black material and small gastropods on it.](https://github.com/lrwives/files/blob/master/DSC_4096.JPG)
 
 
 ### Layer 2: Lake Clays without Organics, ~1.5-3 ft.
 
 Moving upward through this clay layer, the organic mats gradually become rarer and then disappear altogether. In this interval, shells also become less common, but within the clay one can find rare pebbles, which are notably not made of limestone (this will become important later).
 
-![pebbles found in the clay]({{site.baseurl}}/_posts/DSC_4097.JPG)
+![pebbles found in the clay](https://github.com/lrwives/files/blob/master/DSC_4097.JPG)
 
 ### Layer 3: Fine sand and loam, ~3-5 ft.
 
 In the next layer up, the sand continues to become coarser. The sand in this layer is still mostly made of quartz, but now also contains a lot more limestone sand, shell fragments, and other types of rocks, much like the sand along modern beaches in the area. 
 
-![DSC_4101.JPG]({{site.baseurl}}/_posts/DSC_4101.JPG)
+![DSC_4101.JPG](https://github.com/lrwives/files/blob/master/DSC_4101.JPG)
 
 
 ### Layer 4: Fine to medium sand, ~5-7 ft.
 
 In the next layer up, the sand continues to become coarser. The sand in this layer is still mostly made of quartz, but now also contains a lot more limestone sand, shell fragments, and other types of rocks, much like the sand along modern beaches in the area. 
 
+Though they are difficult to see, there are some bands in these sandy sediments – “cross beds” – that point in the direction water was flowing when the sediments were lain down. The cross beds in these layers point roughly to the south-south east, a direction that is perpendicular to the trend of the old beach ridge we can see in the elevation data.
+
 ### Layer 5: Coarse sand, ~7-9 ft.
 
+The next layer is a continuation of the sandy layers below, but now the sand grains are much larger. There are fewer whole fossil shells, but a similar number of bone fragments. Cross beds continue to dip roughly towards the south-south east.
+
 ### Layer 6: Gravel, ~9 ft.+
+
+The gravel layer that tops this coarsening upward sequence is ~6 ft thick. The clasts continue to get larger all the way to the top of the gravel. The gravel is made almost wholly of limestone cobbles and boulders, with small amounts of chert (which forms in limestones), granite, and black-colored igneous and metamorphic rocks. Clasts within the conglomerate are roughly imbricated - aligned with one another, suggesting some current or wave pushed them in a preferred orientation. The cobbles and boulders are not particularly well-rounded, or smooth. Sand similar to that in Layer 5 fills in the gaps around the boulders.
+
+### Adjacent Areas
+
+When we visited the outcrop, we got to it by walking along the Lake Michigan shoreline. While doing this we noticed that most exposures along the lakeshore are composed of only Layer 1 (mud) and Layer 6 (gravel). This tell us that the sandy layers (Layers 2 – 5) are the ones that created the beach ridge, while the environments that allowed the muddy sediments at the bottom of the sequence and the course cobbles at the top of the sequence occurred not only on the beach ridge, but also in the surrounding areas.
