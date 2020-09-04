@@ -12,7 +12,15 @@ tags: [geology, sedimentology, glacial, glacial geology, geomorphology, outcrops
 
 ## Introduction
 
+Nothing gets a geologist more excited than a friend saying, “I think I saw a cool outcrop you might wanna look at.” And that’s exactly what Larry said when he stopped by to pick up his CSA share from my husband and I’s farm one Friday in late July.
 
+Outcrops – exposures of rock and sediment - are a small, but integral piece of a larger, global puzzle. Understanding geology is all about fitting knowledge we can gather within a grain of sand together with regional and global perspectives to understand the forces that shape our world. These glimpses into our geologic past are even more exciting in a place like northern Michigan, where they usually don’t come along unless someone is digging a foundation or gravel pit. 
+Imagine the earth as if it was a layered cake. The surface of our earth is the frosting – delicious and beautiful all on its own, and it can often tell us a lot about what kind of cake be beneath it. But it’s going to be difficult to know the cake’s flavor until you take that first slice. Looking at a geologic outcrop is similar to slicing open the cake; a chance to see what wonderful secrets are hiding inside.
+
+Since Great Lake levels have been sitting high from the last several years, exposures of rock and sediment along the shores of Lake Michigan have become more common due to slope failure and erosion. While the 30-year cycle that bring high waters is hell for property owners, it’s a rare opportunity for geologists. As soon as those water levels retreat, we’ll get our beaches back and our homes will be safer, but the outcrops will become covered with sediment slumps and vegetation and we’ll lose our chance.
+
+So, of course, on a day that we both felt we could use a little break, my husband Patrick and I went on a little adventure to Trail’s End Bay on Lake Michigan to check out Larry’s outcrop.
+I’m going to tell you all about the outcrop in the second half of this post, but I think context is super important. Because of that belief, I spent some time putting together some basic background on the site to help you understand why this is such a neat outcrop.
 
 ## Geographic Location
 ![Headlands_Location_Geography_v1.jpg](https://github.com/lrwives/files/blob/master/Headlands_Location_Geography_v1.jpg)
