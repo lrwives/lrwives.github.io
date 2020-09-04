@@ -99,7 +99,6 @@ In this first section, I’m only going to describe the outcrop and then I will 
 
 **Location: 42.771433˚ 084.782650˚W**
 
-
 ![Imgur](https://i.imgur.com/wm2spaO.jpg)
 
 The outcrop is ~5 m, or ~16 ft., tall. The sediments exposed in the outcrop are an excellent example of what geologists call a “coarsening upward sequence”, where the sediments at the bottom a relatively fine-grained at the bottom (think clay or silt) and then gradually become more coarse (sand, gravel, etc.) as you move upward through the sediments without experiencing any major interruptions. Coarsening upward sequences suggest a couple of things:
@@ -123,20 +122,20 @@ This interval is composed to grey sandy clay loam with thin organic mat layers. 
 
 The organic layers are 1 mm – 2 cm thick, and laterally discontinuous. The mats are black in color and contain plant macrofossils that someone with a better background in plants than myself may be able to identify. These macrofossils included pieces of wood.
 
-![wood fragment from organic layer with black unidentifiable black material and small gastropods on it.](https://github.com/lrwives/files/blob/master/DSC_4096.JPG)
+![wood fragment from organic layer with black unidentifiable black material and small gastropods on it.](https://imgur.com/rzvqQug.jpg)
 
 
 ### Layer 2: Lake Clays without Organics, ~1.5-3 ft.
 
 Moving upward through this clay layer, the organic mats gradually become rarer and then disappear altogether. In this interval, shells also become less common, but within the clay one can find rare pebbles, which are notably not made of limestone (this will become important later).
 
-![pebbles found in the clay](https://github.com/lrwives/files/blob/master/DSC_4097.JPG)
+![pebbles found in the clay](https://i.imgur.com/iQedoW0.jpg)
 
 ### Layer 3: Fine sand and loam, ~3-5 ft.
 
 In the next layer up, the sand continues to become coarser. The sand in this layer is still mostly made of quartz, but now also contains a lot more limestone sand, shell fragments, and other types of rocks, much like the sand along modern beaches in the area. 
 
-![DSC_4101.JPG](https://github.com/lrwives/files/blob/master/DSC_4101.JPG)
+![DSC_4101.JPG](https://i.imgur.com/4znKC97.jpg)
 
 
 ### Layer 4: Fine to medium sand, ~5-7 ft.
