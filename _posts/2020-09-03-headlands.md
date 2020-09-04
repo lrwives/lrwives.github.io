@@ -1,9 +1,6 @@
 ---
 published: true
----
-September 3, 2020
-Libby R.W. Ives
----
+author: Libby R.W. Ives
 layout: post
 title: Headlands Outcrop: A Window into Ancient Shorelines
 tags: [geology, sedimentology, glacial, glacial geology, geomorphology, outcrops]
