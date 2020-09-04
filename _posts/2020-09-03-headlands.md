@@ -129,6 +129,8 @@ In the next layer up, the sand continues to become coarser. The sand in this lay
 
 ### Layer 4: Fine to medium sand, ~5-7 ft.
 
+In the next layer up, the sand continues to become coarser. The sand in this layer is still mostly made of quartz, but now also contains a lot more limestone sand, shell fragments, and other types of rocks, much like the sand along modern beaches in the area. 
+
 ### Layer 5: Coarse sand, ~7-9 ft.
 
 ### Layer 6: Gravel, ~9 ft.+
