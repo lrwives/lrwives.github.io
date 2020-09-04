@@ -14,9 +14,11 @@ The sediments described here sit at a junction between two “spectacular” pen
 
 The outcrop is located on the Lake Michigan shoreline at the southern end of the Headlands Dark Sky Park in Emmet County, Michigan. This shoreline marks the northern end of Trail’s End Bay, and is oriented east-west. The Headlands is located just west of the village of Mackinaw City, MI as well as the Mackinac Straits at the very northern tip of Michigan’s lower peninsula and just 4 miles south of the Upper Peninsula. 
 
-[geographic map of the Great Lakes and Michigan]
+![Great Lakes Topographic releif map]({{site.baseurl}}/https://learn.weatherstem.com/modules/learn/lessons/94/img/diagram-topography.jpg)
 
 The Straits act as the boundary between Lake Michigan and Lake Huron. Though they cover a lot of area and have two different names, these two great lakes are hydrologically the same, since all the water in both Lake Michigan and Lake Huron can only exit through one outlet – the St. Clair River, north of Detroit.
+
+
 
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
