@@ -119,7 +119,7 @@ What I’m going to do next is talk about each sediment layer, starting at the b
 
 This interval is composed to grey sandy clay loam with thin organic mat layers. The unoxidized grey sediments oxidize to reddish-brown. Whole shells and shelly fragments are common. Shells include bivalves (e.g. clams/muscles) and gastropods (snails).
 
-![clay and organic layers](https://i.imgur.com/2VYiqSK.jpg)
+![clay and organic layers](https://i.imgur.com/x4FGwqn.jpg)
 
 The organic layers are 1 mm – 2 cm thick, and laterally discontinuous. The mats are black in color and contain plant macrofossils that someone with a better background in plants than myself may be able to identify. These macrofossils included pieces of wood.
 
