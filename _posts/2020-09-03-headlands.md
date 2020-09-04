@@ -111,7 +111,8 @@ What I’m going to do next is talk about each sediment layer, starting at the b
 
 ### Layer 1: Lake Clays with Organics, ~0-1.5 ft.
 
-![clay and mud layers.jpg]({{site.baseurl}}/_drafts/clay and mud layers.jpg)
+![clay and organic layers]({{site.baseurl}}/_posts/clay and mud layers.jpg)
+
 
 This interval is composed to grey sandy clay loam with thin organic mat layers. The unoxidized grey sediments oxidize to reddish-brown. Whole shells and shelly fragments are common. Shells include bivalves (e.g. clams/muscles) and gastropods (snails).
 
