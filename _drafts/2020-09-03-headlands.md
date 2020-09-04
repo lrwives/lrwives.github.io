@@ -1,6 +1,7 @@
 ---
 published: false
 ---
+September 3, 2020
 # Headlands Outcrop: A Window into Ancient Shorelines
 
 ![north-looking view of the Lake Michigan shoreline near out outcrop location, August 2020]({{site.baseurl}}/_drafts/Shoreview.jpg)
@@ -80,5 +81,3 @@ Anyway, you might be asking “Why does she want me to know all about beach ridg
 
 
 
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
