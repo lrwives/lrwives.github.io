@@ -105,5 +105,17 @@ Ergo, there wasn’t a lot of energy around when the finer-grained (clay, silt) 
 
 What I’m going to do next is talk about each sediment layer, starting at the bottom and moving through to the top.
 
+### Layer 1: Lake Clays with Organics, ~0-1.5 ft.
+
+![clay and mud layers.jpg]({{site.baseurl}}/_drafts/clay and mud layers.jpg)
+
+This interval is composed to grey sandy clay loam with thin organic mat layers. The unoxidized grey sediments oxidize to reddish-brown. Whole shells and shelly fragments are common. Shells include bivalves (e.g. clams/muscles) and gastropods (snails).
+
+The organic layers are 1 mm – 2 cm thick, and laterally discontinuous. The mats are black in color and contain plant macrofossils that someone with a better background in plants than myself may be able to identify. These macrofossils included pieces of wood.
+
+![wood fragment from organic layer with black unidentifiable black material and small gastropods on it.]({{site.baseurl}}/_drafts/DSC_4096.JPG)
 
 
+### Layer 2: Lake Clays without Organics
+
+Moving upward through this clay layer, the organic mats gradually become rarer and then disappear altogether. In this interval, shells also become less common, but within the clay one can find rare pebbles, which are notably not made of limestone (this will become important later). 
