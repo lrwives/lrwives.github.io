@@ -2,6 +2,8 @@
 published: false
 ---
 September 3, 2020
+Libby R.W. Ives
+
 # Headlands Outcrop: A Window into Ancient Shorelines
 
 ![north-looking view of the Lake Michigan shoreline near out outcrop location, August 2020]({{site.baseurl}}/_drafts/Shoreview.jpg)
@@ -41,7 +43,7 @@ How and why these rocks formed is a story for another time. What’s important f
 
 If you’re familiar with the area you might be saying to yourself, “Hey! I thought those uplands were wave-cut bluffs, sea-arches, and sea-stacks!” – and you would be right. These uplands areas have been heavily modified by the wave action of the Great Lakes. But they were high points on the landscape first; The lakes did not make them high areas.
 
-[Wave-cut arch at Mackinac Island]
+![Mackinac Island Arch Rock from mackinacisland.org]({{site.baseurl}}/https://www.mackinacisland.org/assets/rocks.jpg)
 
 The lesson here is that the Headlands stand tall on the landscape, and the lake basins sit low, because of the type of bedrock that underlies them and how the glaciers interacted with that bedrock. Though you can’t see the bedrock on the surface at the Headlands, a [well log from the property](https://secure1.state.mi.us/WELLOGIC/ReportProxy.aspx/?/WELLOGIC/user_Well%20Record&rs:Command=Render&rs:Format=PDF&wellLogID=24000002637) shows that limestone bedrock is only 15 feet below the surface. I realize that 15 feet is actually the height of a 1-story house, and may not seem that shallow, but the highest point at the Headlands is ~100 ft above the modern surface of Lake Michigan. So… still relatively tall.
 
