@@ -89,6 +89,7 @@ Here's a zoomed-in version of the map above showing the ridge a little better:
 
 ![Location Close-up](https://github.com/lrwives/files/blob/master/Headlands_Working_1_CloseUp.jpg)
 
+The outcrop Larry pointed me to is a little bluff that is cutting through an old, elevated beach ridge. The exposure along the lake give us an opportunity to see inside this ridge.
 
 ## Outcrop Description
 In this first section, I’m only going to describe the outcrop and then I will tell you what I think it all means in the “Outcrop Interpretation” section. 
@@ -160,3 +161,5 @@ The gravel layer that tops this coarsening upward sequence is ~6 ft thick. The c
 ### Adjacent Areas
 
 When we visited the outcrop, we got to it by walking along the Lake Michigan shoreline. While doing this we noticed that most exposures along the lakeshore are composed of only Layer 1 (mud) and Layer 6 (gravel). This tell us that the sandy layers (Layers 2 – 5) are the ones that created the beach ridge, while the environments that allowed the muddy sediments at the bottom of the sequence and the course cobbles at the top of the sequence occurred not only on the beach ridge, but also in the surrounding areas.
+
+## Interpretation
