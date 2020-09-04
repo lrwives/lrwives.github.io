@@ -79,5 +79,26 @@ People were living around the Great Lakes during this time of high lake levels, 
 
 Anyway, you might be asking “Why does she want me to know all about beach ridges and ancient lake levels?” The answer is: Because the outcrop I’m going to describe next is essentially a cross-section through a beach ridge that was made when lake levels were just a little higher than they are today. It’s also worth noting that lake-side outcrops like this are only likely to be well-exposed when lake levels are relatively high, like they are now. 
 
+## Outcrop Description
+In this first section, I’m only going to describe the outcrop and then I will tell you what I think it all means in the “Outcrop Interpretation” section. 
+
+**Location: 42.771433˚ 084.782650˚W**
+
+
+![DSC_4085.JPG]({{site.baseurl}}/_drafts/DSC_4085.JPG)
+
+The outcrop is ~5 m, or ~16 ft., tall. The sediments exposed in the outcrop are an excellent example of what geologists call a “coarsening upward sequence”, where the sediments at the bottom a relatively fine-grained at the bottom (think clay or silt) and then gradually become more coarse (sand, gravel, etc.) as you move upward through the sediments without experiencing any major interruptions. Coarsening upward sequences suggest a couple of things:
+1. Since there are no major interruptions in this pattern, **these sediments were probably all deposited in the same lake** and not, say, partially in a lake and partially in a river or glacier.
+
+2. **There was a gradually increase in energy in the system through time.** There are couple of key geology ideas wrapped up in that statement, so let me break it down a little more:
+
+- The sediments on the bottom were deposited first, followed by the overlying sediments, and so forth. So, the clay was deposited before the sand, which was deposited before the gravel.
+
+- Each of these sediment sizes represents different amounts of energy. It takes more energy to move a big rock than a small rock. Rocks and sediments are moved by energy in the form of water, wind, and gravity. In water, energy comes in the form of waves and currents. Bigger waves and stronger currents will move big rocks as well as small rocks, silt and clay. Medium-sized/strength waves or currents can move the medium and small stuff, but not the big stuff, and so on. 
+
+Ergo, there wasn’t a lot of energy around when the finer-grained (clay, silt) sediments were deposited, but there was a lot of energy present when the gravel was deposited. The sand in the middle of the section shows a time of medium-energy.
+
+What I’m going to do next is talk about each sediment layer, starting at the bottom and moving through to the top.
+
 
 
