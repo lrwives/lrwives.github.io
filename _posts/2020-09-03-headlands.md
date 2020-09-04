@@ -7,9 +7,8 @@ tags: [geology, sedimentology, glacial, glacial geology, geomorphology, outcrops
 ---
 # Headlands Outcrop: A Window into Ancient Shorelines
 
-![north-looking view of the Lake Michigan shoreline near out outcrop location, August 2020]({{site.baseurl}}/_drafts/Shoreview.jpg)
+![north-looking view of the Lake Michigan shoreline near out outcrop location, August 2020](https://github.com/lrwives/files/blob/master/Shoreview.jpg)
 
-![image-title-here](/path/to/image.jpg){:class="img-responsive"}
 
 ## Introduction
 
@@ -38,7 +37,7 @@ It will come as no surprise to people familiar with the geography of the Great L
 
 The bedrock geology of Michigan is important to this story in two ways – first in the creation of the Michigan-Huron Lake Basin and secondly in the creation of “highlands” north of, and within, the Straits. 
 
-![Simplified map of the Michigan Basin (Luczaj and Masarik, 2015))]({{site.baseurl}}/https://www.researchgate.net/publication/279166236/figure/fig2/AS:669973299068928@1536745490208/Simplified-bedrock-geologic-map-for-the-western-US-Great-Lakes-region-showing-Wisconsin_W640.jpg)
+![Simplified map of the Michigan Basin (Luczaj and Masarik, 2015))](https://www.researchgate.net/publication/279166236/figure/fig2/AS:669973299068928@1536745490208/Simplified-bedrock-geologic-map-for-the-western-US-Great-Lakes-region-showing-Wisconsin_W640.jpg)
 
 The bedrock of Michigan’s lower peninsular and eastern upper peninsula are sedimentary rocks, mostly limestone, that were deposited/formed between ~550 - 300 million years (well before the age of the dinosaurs, which lasted from ~250 – 66 million years ago).
 
