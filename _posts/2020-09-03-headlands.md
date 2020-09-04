@@ -5,10 +5,6 @@ published: true
 
 ![north-looking view of the Lake Michigan shoreline near out outcrop location, August 2020](https://github.com/lrwives/files/blob/6b3b992ce27e1ccf699c68d2f7a6189af04cdcd0/Shoreview.jpg)
 
-<img src="https://github.com/lrwives/files/blob/6b3b992ce27e1ccf699c68d2f7a6189af04cdcd0/Shoreview.jpg" alt="north-looking view of the Lake Michigan shoreline near out outcrop location, August 2020"/>
-
-
-
 ## Introduction
 
 Nothing gets a geologist more excited than a friend saying, “I think I saw a cool outcrop you might wanna look at.” And that’s exactly what Larry said when he stopped by to pick up his CSA share from my husband and I’s farm one Friday in late July.
@@ -104,7 +100,7 @@ In this first section, I’m only going to describe the outcrop and then I will 
 **Location: 42.771433˚ 084.782650˚W**
 
 
-![DSC_4085.JPG](https://github.com/lrwives/files/blob/master/DSC_4085.JPG)
+![Imgur](https://i.imgur.com/wm2spaO.jpg)
 
 The outcrop is ~5 m, or ~16 ft., tall. The sediments exposed in the outcrop are an excellent example of what geologists call a “coarsening upward sequence”, where the sediments at the bottom a relatively fine-grained at the bottom (think clay or silt) and then gradually become more coarse (sand, gravel, etc.) as you move upward through the sediments without experiencing any major interruptions. Coarsening upward sequences suggest a couple of things:
 1. Since there are no major interruptions in this pattern, **these sediments were probably all deposited in the same lake** and not, say, partially in a lake and partially in a river or glacier.
