@@ -3,7 +3,11 @@ published: true
 ---
 September 3, 2020
 Libby R.W. Ives
-
+---
+layout: post
+title: Headlands Outcrop: A Window into Ancient Shorelines
+tags: [geology, sedimentology, glacial, glacial geology, geomorphology, outcrops]
+---
 # Headlands Outcrop: A Window into Ancient Shorelines
 
 ![north-looking view of the Lake Michigan shoreline near out outcrop location, August 2020]({{site.baseurl}}/_drafts/Shoreview.jpg)
