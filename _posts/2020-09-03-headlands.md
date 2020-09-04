@@ -8,6 +8,7 @@ published: true
 <img src="https://github.com/lrwives/files/blob/6b3b992ce27e1ccf699c68d2f7a6189af04cdcd0/Shoreview.jpg" alt="north-looking view of the Lake Michigan shoreline near out outcrop location, August 2020"/>
 
 
+
 ## Introduction
 
 Nothing gets a geologist more excited than a friend saying, “I think I saw a cool outcrop you might wanna look at.” And that’s exactly what Larry said when he stopped by to pick up his CSA share from my husband and I’s farm one Friday in late July.
@@ -21,7 +22,7 @@ So, of course, on a day that we both felt we could use a little break, my husban
 I’m going to tell you all about the outcrop in the second half of this post, but I think context is super important. Because of that belief, I spent some time putting together some basic background on the site to help you understand why this is such a neat outcrop.
 
 ## Geographic Location
-![Headlands_Location_Geography_v1.jpg](https://github.com/lrwives/files/blob/master/Headlands_Location_Geography_v1.jpg)
+![Headlands_Location_Geography_v1.jpg](https://github.com/lrwives/files/blob/6b3b992ce27e1ccf699c68d2f7a6189af04cdcd0/Headlands_Working_1_CloseUp.jpg)
 
 The sediments described here sit at a junction between two “spectacular” peninsulas and two Great Lakes.
 
@@ -78,7 +79,7 @@ When the glaciers advanced across the Straits area during the LGM, they carved-o
 ## Geomorphic Context
 You can tell a lot about the post-glacial history of the Headlands (or anywhere, really) by looking at elevation maps. The movements of glaciers, waves on a lake, or the currents in a river all leave behind unique and beautiful landforms that allow up to interpret past geologic/geomorphic events.
 
-![LiDAR DEM and Hillshade of the Headlands Area](https://github.com/lrwives/files/blob/master/Headlands_LiDAR_v1.jpg)
+![LiDAR DEM and Hillshade of the Headlands Area](https://github.com/lrwives/files/blob/6b3b992ce27e1ccf699c68d2f7a6189af04cdcd0/Headlands_LiDAR_v1.jpg)
 
 
 Most of the unique shapes in the landscape around the Headlands and Mackinaw City were formed along the shoreline of Lake Michigan as the water levels gradually fell over the last 5000 years -or -so (or, since ~3000 BCE in human years). Shorelines, whether in lakes or oceans, very often build and leave behind “beach ridges”, like you see on the map here. Beach ridges are usually built by waves where a shoreline is building out into the water – either due to the addition of sand, or the lowering of the water level. Beach ridge complexes (also known as ‘dune and swale’) are most common in bays, which by their nature have a very gradual slope. So, as water levels dropped in the Michigan-Huron basin, water gradually retreated out of Trails End Bay and left a series of beach ridges, like water rings in a bathtub. In some places, you can see where these beach ridges parted slightly from the shoreline’s trajectory to form spits and bars, and other familiar shoreline features. Lakes like French Farm Lake, Paradise (Carp) Lake, and Wycamp Lake, and many of the small lakes along the shores of Lake Michigan are old parts of an embayment that was once part of the Big Lake, but are now trapped behind these beach ridge complexes. If the sand left behind wasn’t vegetated quickly enough, these beach ridges were sometimes buffeted around by the wind and shaped into dunes. 
@@ -93,7 +94,7 @@ Anyway, you might be asking “Why does she want me to know all about beach ridg
 
 Here's a zoomed-in version of the map above showing the ridge a little better:
 
-![Location Close-up](https://github.com/lrwives/files/blob/master/Headlands_Working_1_CloseUp.jpg)
+![Location Close-up](https://github.com/lrwives/files/blob/6b3b992ce27e1ccf699c68d2f7a6189af04cdcd0/Headlands_Working_1_CloseUp.jpg)
 
 The outcrop Larry pointed me to is a little bluff that is cutting through an old, elevated beach ridge. The exposure along the lake give us an opportunity to see inside this ridge.
 
@@ -122,7 +123,7 @@ What I’m going to do next is talk about each sediment layer, starting at the b
 
 This interval is composed to grey sandy clay loam with thin organic mat layers. The unoxidized grey sediments oxidize to reddish-brown. Whole shells and shelly fragments are common. Shells include bivalves (e.g. clams/muscles) and gastropods (snails).
 
-![clay and organic layers](https://github.com/lrwives/files/blob/master/clay%20and%20mud%20layers.jpg)
+![clay and organic layers](https://github.com/lrwives/files/blob/6b3b992ce27e1ccf699c68d2f7a6189af04cdcd0/clay%20and%20mud%20layers.jpg)
 
 The organic layers are 1 mm – 2 cm thick, and laterally discontinuous. The mats are black in color and contain plant macrofossils that someone with a better background in plants than myself may be able to identify. These macrofossils included pieces of wood.
 
