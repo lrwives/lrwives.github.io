@@ -141,13 +141,21 @@ In the next layer up, the sand continues to become coarser. The sand in this lay
 
 Though they are difficult to see, there are some bands in these sandy sediments – “cross beds” – that point in the direction water was flowing when the sediments were lain down. The cross beds in these layers point roughly to the south-south east, a direction that is perpendicular to the trend of the old beach ridge we can see in the elevation data.
 
+![DSC_4091.JPG](https://github.com/lrwives/files/blob/master/DSC_4091.JPG)
+
+![DSC_4104.JPG](https://github.com/lrwives/files/blob/master/DSC_4104.JPG)
+
 ### Layer 5: Coarse sand, ~7-9 ft.
 
 The next layer is a continuation of the sandy layers below, but now the sand grains are much larger. There are fewer whole fossil shells, but a similar number of bone fragments. Cross beds continue to dip roughly towards the south-south east.
 
+![DSC_4106.JPG](https://github.com/lrwives/files/blob/master/DSC_4106.JPG)
+
 ### Layer 6: Gravel, ~9 ft.+
 
 The gravel layer that tops this coarsening upward sequence is ~6 ft thick. The clasts continue to get larger all the way to the top of the gravel. The gravel is made almost wholly of limestone cobbles and boulders, with small amounts of chert (which forms in limestones), granite, and black-colored igneous and metamorphic rocks. Clasts within the conglomerate are roughly imbricated - aligned with one another, suggesting some current or wave pushed them in a preferred orientation. The cobbles and boulders are not particularly well-rounded, or smooth. Sand similar to that in Layer 5 fills in the gaps around the boulders.
+
+![DSC_4112.JPG](https://github.com/lrwives/files/blob/master/DSC_4112.JPG)
 
 ### Adjacent Areas
 
